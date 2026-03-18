@@ -96,7 +96,6 @@ int main() {
     Bomba b2("P-101B", 60.5); 
     ControladorTanque ct2("LIC-402", 2500.0, 2.5);
 
-   
     cout << "----------Sensores de Nivel----------\n";
     sn1.exibirResumo();
     sn2.exibirResumo();
